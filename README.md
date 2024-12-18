@@ -12,13 +12,11 @@
 
 ### Structure
 
-- [x] Django ;
+- [x] Django 5.0 ;
 - [x] React;
 
 ### Requirements
 
-
 1. Execute o comando abaixo:
 
 > `pip`
-
